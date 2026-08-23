@@ -4,6 +4,19 @@ Computer Science student at Cal Poly Pomona seeking software engineering interns
 
 ---
 
+## Tech Stack
+
+**Languages:**  
+JavaScript, Python, C/C++, C#, SQL, HTML, CSS
+
+**Frameworks & Libraries:**  
+React, Node.js, Express, TailwindCSS
+
+**Tools & Other:**  
+Git, Linux, ROS2, Network Setup and Configuration
+
+---
+
 ## Projects
 
 ### Nutrition Tracking App (In Progress)
@@ -44,21 +57,7 @@ Top-down action RPG featuring combat, enemy AI, and progression systems built in
 
 ---
 
-## Tech Stack
-
-**Frontend:**  
-React, JavaScript, HTML, CSS, Tailwind
-
-**Backend (Learning):**  
-Node.js, Express, SQL
-
-**Other:**  
-Python, C#, C/C++, Git, Linux
-
----
-
 ## Current Focus
 
-- Building a full-stack React app
-- Learning backend development with Node.js and databases  
+- Building a full-stack app
 - Seeking software engineering internships
