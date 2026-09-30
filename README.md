@@ -1,6 +1,6 @@
 # Hi, I'm Arthur
 
-Computer Science student at Cal Poly Pomona seeking software engineering internships with a focus on full-stack development.  
+Computer Science student at Cal Poly Pomona.
 
 ---
 
@@ -13,7 +13,7 @@ JavaScript, Python, C/C++, C#, SQL, HTML, CSS
 React, Node.js, Express, TailwindCSS
 
 **Tools & Other:**  
-Git, Linux, ROS2, Network Setup and Configuration
+Git, Linux, ROS2, Network Setup and Configuration, CNC Systems
 
 ---
 
@@ -57,7 +57,3 @@ Top-down action RPG featuring combat, enemy AI, and progression systems built in
 
 ---
 
-## Current Focus
-
-- Building a full-stack app
-- Seeking software engineering internships
